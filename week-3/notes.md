@@ -1,0 +1,1 @@
+Thin lens approximation,
