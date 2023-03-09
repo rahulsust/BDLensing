@@ -1,1 +1,3 @@
-###  This repository contain all the stuffs I do and collect while doing the research project 'BDlensing'.
+####  This repository contain all the stuffs I do and collect while doing the research project 'BDlensing'.
+
+In this project, I will model galaxy-scale strong lensing systems using imaging data from the Hubble Space Telescope (the image below shows some examples). Through lens modeling, I will quantify how the mass is distributed in the lens galaxy and compare it with the light distribution to investigate the alignment between dark matter and baryonic matter in massive elliptical galaxies. The modeling will be performed with the software package [lenstronomy](https://github.com/lenstronomy/lenstronomy), written in Python.
